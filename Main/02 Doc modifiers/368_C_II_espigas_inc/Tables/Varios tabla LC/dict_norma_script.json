@@ -1,0 +1,16 @@
+{
+  "PCB": "UL 796",
+  "Fusible": "UL 248-1",
+  "Varistor": "UL 1449",
+  "Capacitor X": "UL 60384-14",
+  "Aislación del bobinado del transformador": "UL 1446",
+  "Capacitor Y": "UL 60384-14",
+  "Optoacoplador": "UL 1577", 
+  "Ficha de alimentacion": "IRAM XXXX",
+  "Cordon de alimentacion": "IEC 60227",
+  "Conector de alimentacion": "IEC 60320",
+  "Zocalo de alimentacion": "IEC 60320",
+  "Selector de alimentacion": "UL 61058",
+  "Interruptor": "UL 1054",
+  "Ventilador": "UL 507"
+}

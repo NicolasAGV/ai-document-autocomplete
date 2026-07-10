@@ -1,0 +1,12 @@
+{
+  "Capacitor Electrolitico": "(?:\\d+V[~]?\\s*[\\d.,]+\\s*[µμu][Ff]|[\\d.,]+\\s*[µμu][Ff]\\s*\\d+V[~]?)",
+  "Capacitor Y":             "[\\d.,]+\\s*[µμu][Ff]\\s+\\d+V[~]?",
+  "Capacitor X":             "[\\d.,]+\\s*[µμu][Ff]\\s+\\d+V[~]?",
+  "Fusible":                 "T?[\\d.,]+\\s*A[^ ]*\\s+\\d+V[~]?",
+  "Varistor":                "\\d+V[~]?",
+  "Resistencia":             "[\\d.,]+\\s*[kKmM]?[Ωo][hH]?[mM]?\\s+[\\d.,]+\\s*[WwkK]?[Ww]",
+  "Transformador":           "[A-Z]{2}\\d+[A-Z0-9]*",
+  "Bobina":                  "[\\d.,]+\\s*[mµ][Hh]",
+  "Optoacoplador":           "[A-Z]{2}[0-9]{3,}[A-Z]?",
+  "PCB":                     "REV[. ]?[\\d.]+"
+}
